@@ -6,7 +6,7 @@ interface SearchFilters {
   budget: string;
   activity: string;
 }
-
+// seach bar
 export default function SearchBar() {
   const [filters, setFilters] = useState<SearchFilters>({
     location: '',
