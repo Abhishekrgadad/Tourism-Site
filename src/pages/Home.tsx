@@ -1,7 +1,11 @@
 import Hero from '../components/Hero';
 import WhatsNew from '../components/sections/WhatsNew';
 import MakeMemories from '../components/sections/MakeMemories';
+<<<<<<< HEAD
 import Events from '../components/sections/Events';
+=======
+
+>>>>>>> 737ee91 (updated files)
 import Testimonials from '../components/Testimonials';
 
 export default function Home() {
@@ -10,7 +14,10 @@ export default function Home() {
       <Hero />
       <WhatsNew />
       <MakeMemories />
+<<<<<<< HEAD
       <Events />
+=======
+>>>>>>> 737ee91 (updated files)
       <Testimonials />
     </div>
   );

@@ -2,6 +2,7 @@ import { useState } from 'react';
 
 const images = [
   {
+<<<<<<< HEAD
     url: "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba?auto=format&fit=crop&q=80&w=800",
     title: "Venice Canals"
   },
@@ -25,6 +26,56 @@ const images = [
     url: "https://images.unsplash.com/photo-1682687220795-796d3f6f7000?auto=format&fit=crop&q=80&w=800",
     title: "City Lights"
   }
+=======
+    url: "/gall8.jpg",
+    title: "Dharmasthala"
+  },
+  {
+    url: "/gall9.jpg",
+    title: "INS Warship Museum"
+  },
+  {
+    url: "/gall10.jpg",
+    title: "Rabindranath Tagore Beach"
+  },
+  {
+    url: "/gall4.jpg",
+    title: "Rock Garden"
+  },
+  {
+    url: "/gall5.jpg",
+    title: "Mirjan Fort"
+  },
+  {
+    url: "/gall12.jpg",
+    title: "Yana Caves"
+  },
+  {
+    url: "/gall7.jpg",
+    title: "Gokarna Beach"
+  },
+  {
+    url: "/gall11.jpg",
+    title: "Mangrove Forest"
+  },
+  {
+    url: "/gall13.jpg",
+    title: "Sharavathi Backwater"
+  },
+  {
+    url: "/gall14.jpg",
+    title: "Apsara Konda Falls"
+  },
+  {
+    url: "/gall15.jpg",
+    title: "Mahabaleshwar Temple"
+  },
+  {
+    url: "/gall17.jpg",
+    title: "Murudeshwar"
+  },
+
+>>>>>>> 737ee91 (updated files)
 ];
 
 export default function Gallery() {

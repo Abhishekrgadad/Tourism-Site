@@ -18,7 +18,11 @@ export default function WhatsNew() {
         <div className="md:w-1/2 relative">
           <div className="sticky top-24 h-[500px] rounded-lg overflow-hidden transform transition-transform duration-500 hover:scale-105">
             <img 
+<<<<<<< HEAD
               src="https://images.unsplash.com/photo-1682687220742-aba13b6e50ba?auto=format&fit=crop&q=80&w=1000" 
+=======
+              src="/backwater.png" 
+>>>>>>> 737ee91 (updated files)
               alt="Adventure"
               className="w-full h-full object-cover"
             />

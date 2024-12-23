@@ -11,7 +11,11 @@ export default function Navbar() {
     <nav className="fixed w-full bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm z-50 transition-colors duration-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
+<<<<<<< HEAD
           <Link to="/" className="text-gray-900 dark:text-white text-2xl font-bold">Wanderlust</Link>
+=======
+          <Link to="/" className="text-gray-900 dark:text-white text-2xl font-bold">TravelTales</Link>
+>>>>>>> 737ee91 (updated files)
           
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-8">

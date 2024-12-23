@@ -8,9 +8,15 @@ interface WeatherInfo {
 }
 
 const mockWeather: WeatherInfo[] = [
+<<<<<<< HEAD
   { location: 'Paris', temperature: 22, condition: 'sunny' },
   { location: 'Tokyo', temperature: 28, condition: 'cloudy' },
   { location: 'Santorini', temperature: 25, condition: 'sunny' }
+=======
+  { location: 'Kerala', temperature: 24, condition: 'sunny' },
+  { location: 'karnataka', temperature: 28, condition: 'cloudy' },
+  { location: 'Goa', temperature: 25, condition: 'sunny' }
+>>>>>>> 737ee91 (updated files)
 ];
 
 export default function WeatherWidget() {

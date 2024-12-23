@@ -2,6 +2,7 @@ import { useRef, useEffect } from 'react';
 
 const testimonials = [
   {
+<<<<<<< HEAD
     name: "Sarah Johnson",
     location: "New York, USA",
     quote: "The most amazing travel experience of my life! Every detail was perfectly planned.",
@@ -10,12 +11,39 @@ const testimonials = [
   {
     name: "David Chen",
     location: "Sydney, Australia",
+=======
+    name: "Madhusudhan R",
+    location: "Davangere, Karnataka",
+    quote: "The most amazing travel experience of my life! Every detail was perfectly planned.",
+    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    name: "Abhishek R G",
+    location: "Belgaum, Karnataka",
+>>>>>>> 737ee91 (updated files)
     quote: "Professional service with a personal touch. Will definitely book again!",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200"
   },
   {
+<<<<<<< HEAD
     name: "Emma Wilson",
     location: "London, UK",
+=======
+    name: "Ganesh H Y",
+    location: "Nyamthi, Karnataka",
+    quote: "Exceeded all expectations. The local guides were knowledgeable and friendly.",
+    image: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    name: "Aishwarya GD",
+    location: "Gadag, Karnataka",
+    quote: "The most amazing travel experience of my life! Every detail was perfectly planned.",
+    image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    name: "Smitha N",
+    location: "Honnavar, Karnataka",
+>>>>>>> 737ee91 (updated files)
     quote: "Exceeded all expectations. The local guides were knowledgeable and friendly.",
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200"
   }
